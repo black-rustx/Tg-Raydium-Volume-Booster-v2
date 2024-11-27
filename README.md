@@ -153,5 +153,3 @@ Thank you for your support! 🌟
 **Telegram**: [@g0drlc](https://t.me/g0drlc)
 
 ---
-
-I’ve added some fun elements, used emojis to enhance readability, and made it more engaging while keeping the technical details intact. This should be a user-friendly README that stands out! Let me know if you need further tweaks! 😄
